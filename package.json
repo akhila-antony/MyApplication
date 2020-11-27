@@ -1,0 +1,23 @@
+{
+  "name": "a-simple-react-router-v4-tutorial-forked",
+  "version": "0.0.0",
+  "description": "https://blog.pshrmn.com/entry/simple-react-router-v4-tutorial/",
+  "keywords": [],
+  "main": "index.js",
+  "dependencies": {
+    "@material-ui/core": "^4.11.1",
+    "react": "15.5.3",
+    "react-dom": "15.5.3",
+    "react-modal": "^3.12.1",
+    "react-router-dom": "4.1.1"
+  },
+  "devDependencies": {
+    "react-scripts": "1.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
